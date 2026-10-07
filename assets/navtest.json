@@ -1,0 +1,133 @@
+[
+    {
+        "catname": "Boundaries",
+        "id": "NSAREA_SCOTLAND",
+        "maps": [
+            {
+                "id": "NSAREA_SCOTLAND",
+                "title": "NatureScot Area Boundaries",
+                "pub": "NatureScot",
+                "date": "2023",
+                "area": "Scotland",
+                "description": "This dataset details the new NatureScot National Operations Areas, as of April 2023. These new areas replace the previous NatureScot SNH Areas (Post April 2011) boundaries. This dataset was digitised using the Ordnance Survey Boundary-Line open data, using the local authorities geometries."
+            },
+            {
+                "id": "Boundary-Line",
+                "title": "Boundary-Line",
+                "pub": "Ordnance Survey",
+                "date": "2026",
+                "area": "England, Scotland, Wales",
+                "description": "Ordnance Survey Boundary-Line is a free, quality-assured dataset covering the hierarchy of administrative and electoral boundaries across Great Britain, including current boundary names and a regularly updated national reference layer. Its main value is that it gives organisations a consistent, authoritative spatial framework for mapping and analysis: it helps people combine boundaries with census, demographic, environmental, or policy data to reveal regional patterns, produce shaded maps, support decision-making, and even examine historical county boundaries going back to the late 19th century. It is particularly useful for public bodies, researchers, planners, and analysts because it supports fair area-based comparison and resource allocation, while being open to download and use under the Open Government Licence."
+            },
+            {
+                "id": "boundaries_historic_england_regions",
+                "title": "Boundaries - Historic England Regions",
+                "pub": "Historic England",
+                "date": "2024",
+                "area": "England",
+                "description": "Historic England administrative regions, delineating the areas covered by each regional office."
+            }
+        ]
+    },
+    {
+        "catname": "Heritage sites",
+        "id": "listed_buildings_scotland",
+        "subcats": [
+            {
+                "name": "Listed buildings",
+                "maps": [
+                    {
+                        "id": "listed_buildings_scotland",
+                        "title": "Listed Buildings",
+                        "pub": "Historic Environment Scotland",
+                        "date": "2026",
+                        "area": "Scotland",
+                        "description": "This dataset comprises the statutory addresses and supplementary information for listed buildings in Scotland. Listing is the recognition that a building or structure is of 'special' interest."
+                    },
+                    {
+                        "pub": "Historic England",
+                        "title": "Listed Buildings",
+                        "date": "2026",
+                        "area": "England",
+                        "description": "Historic England\u00e2\u20ac\u2122s Listed Buildings dataset is valuable because it provides an official, up-to-date spatial record of buildings with legal protection and special architectural or historic interest in England. It helps planners, conservation officers, researchers, and the public identify where listed buildings are, supporting day-to-day planning decisions, heritage management, and broader conservation work. The dataset is also useful for linking heritage assets to other geographic or demographic data, so users can analyse patterns of significance, risk, and development pressure across places. Importantly, it offers a clear, authoritative reference point for the historic environment, and the data is published free under the Open Government Licence."
+                    }
+                ]
+            },
+            [
+                {
+                    "name": "Marine environment",
+                    "maps": [
+                        {
+                            "id": "protected_wrecks_england",
+                            "title": "Protected Wrecks - part of the National Heritage List for England",
+                            "pub": "Historic England",
+                            "date": "2026",
+                            "area": "England",
+                            "description": "The Government has the power to safeguard the site of any shipwreck in English territorial waters. Historic England manages the licensing scheme that enables access to the wreck sites. It is a criminal offence to interfere with a protected wreck without a licence. Wreck sites are identified as being likely to contain the remains of a vessel, or its contents, which are of historical, artistic or archaeological importance."
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "name": "Military sites",
+                    "maps": [
+                        {
+                            "id": "battlefields_england",
+                            "title": "Battlefields- part of National Heritage List for England",
+                            "pub": "Historic England",
+                            "date": "2026",
+                            "area": "England",
+                            "description": "The \u00e2\u20ac\u02dcRegister\u00e2\u20ac\u2122 of Historic Battlefields, established in 1995, offers protection to the sites of English battles, as well as promoting a better understanding of their historical significance. These landscapes are of vital importance, as they provide archaeological and topographical evidence of major turning points in England\u00e2\u20ac\u2122s history."
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "name": "Monuments",
+                    "maps": [
+                        {
+                            "id": "scheduled_monuments_england",
+                            "title": "Scheduled Monuments - part of National Heritage List for England",
+                            "pub": "Historic England",
+                            "date": "2026",
+                            "area": "England",
+                            "description": "Historic buildings and archaeological sites of national importance are given legal protection by being placed on a \u00e2\u20ac\u02dcSchedule\u00e2\u20ac\u2122 of monuments. Historic England identifies and advises on these monuments, which are placed on the Schedule by the DCMS. Examples of Scheduled Monuments are Roman remains, burial mounds, castles, bridges, earthworks, the remains of deserted villages, and industrial sites. Scheduled Monuments can not include ecclesiastical or residential buildings (except for associated caretaker\u00e2\u20ac\u2122s dwellings), and unlike Listed Buildings they are not assigned grades."
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "catname": "Natural environment",
+        "id": "LNR_SCOTLAND",
+        "maps": [
+            {
+                "id": "LNR_SCOTLAND",
+                "title": "Local Nature Reserves",
+                "pub": "NatureScot",
+                "date": "2024",
+                "area": "Scotland",
+                "description": "LNRs are established in a variety of locations with very varied habitats and species. They must lie wholly within the area of jurisdiction of the local authority which declares them to be reserves. Prior to such declaration, the local authority must own or lease the site or obtain an agreement from the owner. LNRs are generally smaller than NNRs and closer to centres of population. They are frequently provided for the enjoyment and education of local people whose involvement in site management is encouraged."
+            },
+            {
+                "id": "NCO_SCOTLAND",
+                "title": "Nature Conservation Orders",
+                "pub": "NatureScot",
+                "date": "2025",
+                "area": "Scotland",
+                "description": "Nature Conservation Orders (NCOs) are made to protect any natural feature of land that is within (1) a site of special scientific interest (SSSI), (2) a European site or (3) other land of special interest, and where it is either being actively damaged or there is evidence that it is under threat of damage. The Orders set out certain prohibited operations and the land to which they apply."
+            },
+            {
+                "id": "conservation_areas_england",
+                "title": "Conservation Areas",
+                "pub": "Historic England",
+                "date": "2026",
+                "area": "England",
+                "description": "Conservation Areas in England as designated by Local Planning Authorities and compiled by Historic England. This dataset is updated as new information is received from Local Planning Authorities."
+            }
+        ]
+    }
+]

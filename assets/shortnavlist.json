@@ -1,0 +1,51 @@
+[
+    { "catname":"Boundaries",
+     "maps": [
+        {
+            "pub": "NatureScot",
+            "title": "NatureScot Area Boundaries",
+            "date": "2023",
+            "area": "Scotland",
+            "description": "This dataset details the new NatureScot National Operations Areas, as of April 2023. These new areas replace the previous NatureScot SNH Areas (Post April 2011) boundaries. This dataset was digitised using the Ordnance Survey Boundary-Line open data, using the local authorities geometries."
+        },
+        { "pub": "Ordnance Survey",
+            "title": "Boundary-Line",
+            "date": "2026",
+            "area": "England, Scotland, Wales",
+            "description": "Ordnance Survey Boundary-Line is a free, quality-assured dataset covering the hierarchy of administrative and electoral boundaries across Great Britain, including current boundary names and a regularly updated national reference layer. Its main value is that it gives organisations a consistent, authoritative spatial framework for mapping and analysis: it helps people combine boundaries with census, demographic, environmental, or policy data to reveal regional patterns, produce shaded maps, support decision-making, and even examine historical county boundaries going back to the late 19th century. It is particularly useful for public bodies, researchers, planners, and analysts because it supports fair area-based comparison and resource allocation, while being open to download and use under the Open Government Licence."
+        },
+        {
+            "pub": "Historic England",
+            "title": "Boundaries - Historic England Regions",
+            "date": "2024",
+            "area": "England",
+            "description": "Historic England administrative regions, delineating the areas covered by each regional office."
+        }
+     ]
+    },
+    { "catname":"Natural environment",
+     "maps": [
+         {
+            "pub": "NatureScot",
+            "title": "Local Nature Reserves - Scotland",
+            "date": "2024",
+            "area": "Scotland",
+            "description": "LNRs are established in a variety of locations with very varied habitats and species. They must lie wholly within the area of jurisdiction of the local authority which declares them to be reserves. Prior to such declaration, the local authority must own or lease the site or obtain an agreement from the owner. LNRs are generally smaller than NNRs and closer to centres of population. They are frequently provided for the enjoyment and education of local people whose involvement in site management is encouraged."
+        },
+         {
+            "pub": "NatureScot",
+            "title": "Nature Conservation Orders - Scotland",
+            "date": "2025",
+            "area": "Scotland",
+            "description": "Nature Conservation Orders (NCOs) are made to protect any natural feature of land that is within (1) a site of special scientific interest (SSSI), (2) a European site or (3) other land of special interest, and where it is either being actively damaged or there is evidence that it is under threat of damage. The Orders set out certain prohibited operations and the land to which they apply."
+        },
+         {
+            "pub": "Historic England",
+            "title": "Conservation Areas - England",
+            "date": "2026",
+            "area": "England",
+            "description": "Conservation Areas in England as designated by Local Planning Authorities and compiled by Historic England. This dataset is updated as new information is received from Local Planning Authorities."
+        }
+     ]
+}
+]
